@@ -22,7 +22,7 @@
     "gulp-nodemon": "^2.0.6",
     "gulp-util": "latest",
     "handlebars": "^4.0.6",
-    "hapi-auth-jwt2": "^7.2.4",
+    "hapi-auth-jwt2": "^10.4.0",
     "hoek": "^4.1.0",
     "joi": "^9.2.0",
     "jsonwebtoken": "^7.1.9",
